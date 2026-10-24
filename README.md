@@ -1,7 +1,5 @@
 # credit-card-default-warning
-「人工智慧期中專題：台灣信用卡違約預警」
-
-人工智慧期中報告（第  組）。
+「人工智慧期中報告（第   組）：台灣信用卡違約預警」
 
 ## 內容
 - `feasibility.ipynb`：可行性測試筆記本（建議用 Google Colab 開啟，執行階段 → 全部執行）
