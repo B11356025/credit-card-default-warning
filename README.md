@@ -2,7 +2,7 @@
 「人工智慧期中報告（第   組）：台灣信用卡違約預警」
 
 ## 內容
-- `feasibility.ipynb`：可行性測試筆記本（建議用 Google Colab 開啟，執行階段 → 全部執行）
+- `AI期中_信用卡違約預警_可行性測試.ipynb`：可行性測試筆記本（建議用 Google Colab 開啟，執行階段 → 全部執行）
 - `results/`：數字表格
 - `figures/`：圖表
 
