@@ -12,4 +12,4 @@ UCI Machine Learning Repository「Default of Credit Card Clients」，CC BY 4.0�
 筆記本會自動下載資料，本儲存庫不另外存放原始資料。
 
 ## 環境
-Python 3.13.18、scikit-learn 1.6.1、XGBoost 3.4.1、pandas 2.2.3、NumPy 2.1.3；隨機種子 42。
+Python 3.13.18、scikit-learn 1.6.1、XGBoost 3.4.1、pandas 2.2.3、NumPy 2.4.6；隨機種子：基準實驗為 42，穩定性檢驗為 42 至 46。
